@@ -1,0 +1,41 @@
+nav{
+	float: right;
+}
+
+h1{
+	color: red;
+	margin:50px;
+	text-align: center;
+	font-size:30px;
+}
+
+h4{
+	font-size:18px;
+}
+.leftBox{
+	float:	center;
+	width: 50%;
+	text-align: center;
+}
+.rightBox{
+	float:	center;
+	width: 50%;
+	text-align: center;
+}
+.dlnt{
+	float: right;
+	width: 50%;
+	margin:20px;
+	font-size:14px;
+}
+h5{font-size: 18px};
+h6{
+	float: left;
+	width: 50%;
+	text-align: center;
+}
+h2{
+	font-size: 14;
+	text-align: left;
+	padding:10px 20px 30px 40px;
+}
